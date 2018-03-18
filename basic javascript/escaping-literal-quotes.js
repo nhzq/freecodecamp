@@ -18,4 +18,5 @@ I am a "double quoted" string inside "double quotes".
 
 var myStr; // Change this line
 
-myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+// myStr = "I am a \"double quoted\" string inside \"double quotes\".";
+var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
